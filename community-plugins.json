@@ -28132,4 +28132,14 @@
     "description": "This plugin has not been manually reviewed by Obsidian staff. Focus the first empty checkbox when opening daily notes.",
     "repo": "geokhv/obsidian-daily-checkbox-focus"
   }
+    },
+  {
+    "id": "ogstack",
+    "name": "ogstack",
+    "author": "Uves Arshad",
+    "description": "Use AI skills directly in Obsidian — brainstorm ideas, build plans, do research, and write with your linked notes as context.",
+    "repo": "uvesarshad/ostack"
+  }
+]
+
 ]
